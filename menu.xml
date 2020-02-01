@@ -1,5 +1,5 @@
-<data text="menu">
-	<menu text="LED Strip Settings">
+<data text="Menu">
+	<Menu text="LED Strip Settings">
 		<LED_Strip_Settings text="LED Color">
 			<LED_Color text="RGB">
 				<RGB text="Red"></RGB>
@@ -74,20 +74,20 @@
 		<LED_Strip_Settings text="Sequences">
 			<Sequences text="Update"></Sequences>
 		</LED_Strip_Settings>
-	</menu>
-	<menu text="Play MIDI">
+	</Menu>
+	<Menu text="Play MIDI">
 		<Play_MIDI text="Choose song"></Play_MIDI>
 		<Play_MIDI text="Start recording"></Play_MIDI>
 		<Play_MIDI text="Cancel recording"></Play_MIDI>
 		<Play_MIDI text="Save MIDI"></Play_MIDI>
-	</menu>
-	<menu text="Ports Settings">
+	</Menu>
+	<Menu text="Ports Settings">
 		<Ports_Settings text="Input"></Ports_Settings>
 		<Ports_Settings text="Playback"></Ports_Settings>
 		<Ports_Settings text="Refresh ports"></Ports_Settings>
 		<Ports_Settings text="Reset Bluetooth service"></Ports_Settings>
-	</menu>
-	<menu text="LED animations">
+	</Menu>
+	<Menu text="LED animations">
 		<LED_animations text="Theater Chase"></LED_animations>
 		<LED_animations text="Color Wipe"></LED_animations>
 		<LED_animations text="Breathing">
@@ -107,8 +107,8 @@
 		</LED_animations>
 		<LED_animations text="Theater Chase Rainbow"></LED_animations>
 		<LED_animations text="Clear"></LED_animations>
-	</menu>
-	<menu text="Display Settings">
+	</Menu>
+	<Menu text="Display Settings">
 		<Display_Settings text="Text Color">			
 			<Text_Color text="Black"></Text_Color>
 			<Text_Color text="White"></Text_Color>
@@ -131,15 +131,15 @@
 			<Background_Color text="Black"></Background_Color>
 			<Background_Color text="Grey"></Background_Color>			
 		</Display_Settings>
-	</menu>
-	<menu text="Other Settings">
+	</Menu>
+	<Menu text="Other Settings">
 		<Other_Settings text="System Info"></Other_Settings>
 		<Other_Settings text="Reset to default settings">
 			<Reset_to_default_settings text="Confirm"></Reset_to_default_settings>
 			<Reset_to_default_settings text="Cancel"></Reset_to_default_settings>		
 		</Other_Settings>
-	</menu>
-	<menu text="Shutdown Options">
+	</Menu>
+	<Menu text="Shutdown Options">
 		<Shutdown_Options text="Shutdown">
 			<Shutdown text="Confirm"></Shutdown>
 			<Shutdown text="Cancel"></Shutdown>
@@ -148,5 +148,5 @@
 			<Reboot text="Confirm"></Reboot>
 			<Reboot text="Cancel"></Reboot>
 		</Shutdown_Options>
-	</menu>
+	</Menu>
 </data>
