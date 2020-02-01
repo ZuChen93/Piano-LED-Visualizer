@@ -1,7 +1,11 @@
 
 # Piano LED Visualizer
 
-## [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/onlaj)
+> Credits: onlaj
+>
+> Forked from: https://github.com/onlaj/Piano-LED-Visualizer
+>
+> Adaptive for [Waveshare 1.3inch_LCD_HAT](http://www.waveshare.net/wiki/1.3inch_LCD_HAT)
 
 [![Everything Is AWESOME](https://i.imgur.com/xpfZ0Z6.png)](https://www.youtube.com/watch?v=IZgYViHcXdM "Piano LED Visualizer")
 
